@@ -1,1 +1,2 @@
-print(123)
+def test_func():
+    print(123)
